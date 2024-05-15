@@ -5,9 +5,11 @@ Ecrivez une condition if pour vérifier que l’age n’est PAS compris entre 14
 
 Créez deux variantes: la première utilisant NOT !, La seconde – sans ce dernier.
 */
-let age;
 
-if (age < 14 || age > 90) {
+if !(age >= 14 && age <= 90); {
+
+}
+if (age < 14 || age > 90); {
 
 }
 
