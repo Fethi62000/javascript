@@ -16,5 +16,5 @@ while (i) {
     alert(i--);
 }
 
-// la dernière valeur affichée est 0, car la condition devient fausse et la boucle s'arrêt!
+// la dernière valeur affichée est 1, car à 0 la condition devient fausse et la boucle s'arrête!
 
