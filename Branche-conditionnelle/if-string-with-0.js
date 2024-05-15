@@ -11,7 +11,7 @@ if ("0") {
 if ("0") {
     console.log('Hello');
 };
-// Oui elle s'affiche car le string n'est pas vide, il y à un 0. donc ce string est true.
+// Oui elle s'affiche car le string n'est pas vide, il y a un 0. donc ce string est true.
 
 
 
