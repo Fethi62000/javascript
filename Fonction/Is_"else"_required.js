@@ -27,3 +27,4 @@ function checkAge(age) {
 Existe-t-il une différence dans le comportement de ces deux variantes ?
 */
 
+// Dans les deux cas, le return revoie à ('Did parents allow you?') si la condition if n'est pas respecté.
